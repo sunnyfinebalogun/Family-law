@@ -1,7 +1,12 @@
 <div class="bg-white rounded-xl shadow p-6">
   <h2 class="text-xl font-semibold text-blue-800 mb-2">🏠 Occupation Order Explainer Pack</h2>
   <p class="text-gray-700 mb-2">A practical guide to understanding and applying for Occupation Orders under the Family Law Act 1996.</p>
-  <a href="https://raw.githubusercontent.com/sunnyfinebalogun/Family-law/main/Occupation_Order_Explainer_Pack.docx" class="text-blue-600 underline" download>
-    Download DOCX
+  <a href="https://raw.githubusercontent.com/sunnyfinebalogun/Family-law/main/Occupation_Order_Explainer_Pack.docx" 
+   class="text-blue-600 underline" 
+   download 
+   target="_blank" 
+   rel="noopener">
+   Download DOCX
+</a>
   </a>
 </div>
